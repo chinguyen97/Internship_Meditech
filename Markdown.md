@@ -1,0 +1,74 @@
+## Tìm hiểu ngôn ngữ Markdown(Md)
+
+- Md là ngôn ngữ đánh dâu văn bản (tương tự HTML) và văn bản được viết bằng Md có thể chuyển đổi sang HTML và ngược lại.
+
+## Sử dụng Md
+
+- Thẻ tiêu đề:
+	- Sử dụng kí tự "#" để bắt đầu, độ lớn giảm dần từ # => ######
+- Chèn link, chèn ảnh:
+	- [Thisislink](http://github.com) 
+	- <img src="link_anh">
+		- Lấy link ảnh tại trang http://imgur.com/
+
+- Ký tự in đậm, in nghiêng
+	- In đậm:  " ** 'Nội dung cần in đậm ' ** "
+	- In nghiêng: " * 'Nội dung cần in nghiêng' * "
+
+- Trích dẫn, bo chữ
+	- Sử dụng " ``` `Đoạn cần bo` ``` "
+
+- Đánh dấu đầu dòng
+	- Sử dụng " - ":
+
+```
+- Gạch đầu dòng thứ nhất
+  
+  - Thụt với đầu dòng 1
+  
+  - Thụt với đầu dòng 1
+ 
+- Gạch đầu dòng thứ hai
+  
+  - Thụt với đầu dòng 2
+  
+  - Thụt với đầu dòng 2
+  
+```
+
+- Gạch đầu dòng thứ nhất
+  
+  - Thụt với đầu dòng 1
+  
+  - Thụt với đầu dòng 1
+  
+- Gạch đầu dòng thứ hai
+  
+  - Thụt với đầu dòng 2
+  
+  - Thụt với đầu dòng 2
+  
+
+- Tạo bảng
+	- Sử dụng cú pháp sau để tạo bảng:
+
+```
+| Cột 1 Hàng 1 | Cột 2 | Cột 3| Cột 4 |
+|--------------|-------|------|-------|
+| Hàng 2 | 2 x 1 | 2 x 2 | 2 x 3 | 2 x 4 |
+| Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
+| Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
+```
+
+Kết quả:
+
+| Cột 1 Hàng 1 | Cột 2 | Cột 3| Cột 4 |
+|--------------|-------|------|-------|
+| Hàng 2 | 2 x 1 | 2 x 2 | 2 x 3 | 2 x 4 |
+| Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
+| Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
+
+
+- Test
+	- Sử dụng trang  http://markdownlivepreview.com/ để xem trước
+
