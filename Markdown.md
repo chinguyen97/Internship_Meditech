@@ -1,6 +1,7 @@
 ## Tìm hiểu ngôn ngữ Markdown(Md)
 
 - Md là ngôn ngữ đánh dâu văn bản (tương tự HTML) và văn bản được viết bằng Md có thể chuyển đổi sang HTML và ngược lại.
+- Md được sử dụng để thay thế HTML do cú pháp đơn giản, thân thiện
 
 ## Sử dụng Md
 
@@ -15,8 +16,14 @@
 	- In đậm:  " ** 'Nội dung cần in đậm ' ** "
 	- In nghiêng: " * 'Nội dung cần in nghiêng' * "
 
-- Trích dẫn, bo chữ
+- Bo chữ
 	- Sử dụng " ``` `Đoạn cần bo` ``` "
+
+- Trích dẫn
+	- Sử dụng " > "
+
+- Chú thích
+	- Dùng ký tự ^ bên trong ngoặc vuông [] để đánh dấu và viết lại giải thích ở cuối.
 
 - Đánh dấu đầu dòng
 	- Sử dụng " - ":
