@@ -27,14 +27,14 @@ Ngoài ra, còn có 1 vài quyền đặc biệt sau:
 	- Số nguyên đi sau quyền hạn để chỉ số lượng liên kết tới file, ở đây `1` có nghĩa là file này không có liên kết tượng trưng mà chỉ có một liên kết cứng duy nhất trỏ tới chính nó.
 	- Cuối cùng là 2 thông tin nói về chủ sở hữu và nhóm sở hữu, ở đây là người dùng `user` và nhóm `group`
 
-**Thay đổi quyền và đối tượng sở hữu của file**
+**4. Thay đổi quyền và đối tượng sở hữu của file**
 - Thay đổi quyền của file:
 	- Thay đổi bằng số: `chmod 775 hello.txt`: 
 	- Thay đổi bằng kí hiệu: `chmod u+w o-r +e hello.txt`
 - Thay đổi đối tượng sở hữu:
 	- `chown Nhansu:KeToan folder1` 	 hoặc 	`chown .KeToan folder1`
 
-**Umask**
+**5. Umask**
 - Khi chúng ta tạo ra file hoặc thư mục, mặc định hệ thống gán cho nó 1 quyền mặc định
 File: 666 (rw-rw-rw-) (3)
 Folder: 777 (rwxrwxrwx) (4)
