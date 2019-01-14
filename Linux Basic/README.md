@@ -2,6 +2,6 @@
 
 **Summary**
 
-   1. [Basic Linux Command](./content/Basic-Command.md)
-   2. [File System](./content/File_System.md) 
-   3. [Permission](./content/Permission.md)
+   1. [Basic Linux Command](./Content/Basic-Command.md)
+   2. [File System](./Content/File_System.md) 
+   3. [Permission](./Content/Permission.md)
