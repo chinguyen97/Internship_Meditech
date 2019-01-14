@@ -7,12 +7,15 @@
 
 **2. Nhóm quyền**
 Với 1 file, có 3 loại quyền cơ bản sau:
+
 |Tên quyền|Ký hiệu|Dạng sô|Mô tả|
 |---------|-------|-------|-----|
 |Read|r|4|Quyền đọc file|
 |Write|w|2|Quyền ghi file|
 |Excute|e|1|Quyền thực thi file|
+
 Ngoài ra, còn có 1 vài quyền đặc biệt sau:
+
 |Tên quyền|Ký hiệu|Dạng số|Mô tả|
 |---------|-------|-------|-----|
 |Setuid/Setguid|s|1|Nếu file được thự thi, người thực thi sẽ là chủ sở hữu|
