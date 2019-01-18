@@ -22,8 +22,4 @@ https://tinhte.vn/threads/centos-hay-redhat.2195286/
 
 https://quantrimang.com/tim-hieu-giay-phep-truy-cap-file-co-ban-trong-unix-62400
 
-https://quantrimang.com/tim-hieu-ve-linux-kernel-va-nhung-chuc-nang-chinh-cua-chung-72129
 
-https://www.thekalitools.com/2017/10/tim-hieu-ve-cau-truc-he-ieu-hanh-linux.html
-
-http://tuhocmang.com/chuyen-de-tu-hoc/tu-hoc-lpi-12-qua-trinh-khoi-dong-tren-linux.html
