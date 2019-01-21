@@ -11,4 +11,6 @@
    7. [File System](./Content/2.%20File_System.md) 
    8. [User and Permission](./Content/3.%20User_and_Permission.md)
    9. [Working with file and folder](./Content/4.%20Working_with_files_and_folder.md)
+   10. [Networking](./Content/5.%20Networking_trong_CentOS.md)
+   11. [Package_Manage](./Content/6.%20Package_trong_CentOS.md)
 
