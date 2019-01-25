@@ -13,5 +13,9 @@
    9. [Working with file and folder](./Content/4.%20Working_with_files_and_folder.md)
    10. [Networking](./Content/5.%20Networking_trong_CentOS.md)
    11. [Package_Manage](./Content/6.%20Package_trong_CentOS.md)
-   12. [Service Manager](./Content/7.%20Cac_tac_vu_voi_Service_trong_CentOS.md)
+   12. [Systemd](./Content/7.%20Systemd.md)
+   13. [Process](./Content/8.%20Process.md)
+   14. [SWAP](./Content/9.%20SWAP.md)
+   15. [System Info](./Content/10.%20System_info.md)
+   16. [NFS](./Content/11.%20NFS.md)
 
