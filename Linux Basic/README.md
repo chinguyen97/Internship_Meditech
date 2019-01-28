@@ -18,4 +18,7 @@
    14. [SWAP](./Content/9.%20SWAP.md)
    15. [System Info](./Content/10.%20System_info.md)
    16. [NFS](./Content/11.%20NFS.md)
+   17. [iSCSI](./Content/12.%20iSCSI.md)
+   18. [Security](./Content/13.%20Security.md)
+   19. [Backup Data](./Content/14.%20Data_Backup.md)
 
