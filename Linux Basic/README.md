@@ -21,4 +21,6 @@
    17. [iSCSI](./Content/12.%20iSCSI.md)
    18. [Security](./Content/13.%20Security.md)
    19. [Backup Data](./Content/14.%20Data_Backup.md)
+   20. [IPtables](./Content/16.%20Iptables.md)
+   21. [FirewallD](./Content/17.%20FirewallD.md)
 
