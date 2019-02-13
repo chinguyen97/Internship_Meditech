@@ -23,4 +23,7 @@
    19. [Backup Data](./Content/14.%20Data_Backup.md)
    20. [IPtables](./Content/16.%20Iptables.md)
    21. [FirewallD](./Content/17.%20FirewallD.md)
+   22. [LVM](./Content/15.%20LVM.md)
+   23. [Samba Server](./Content/18.%20Samba%20Server.md)
+
 
