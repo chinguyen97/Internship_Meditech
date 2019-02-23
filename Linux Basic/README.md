@@ -25,5 +25,6 @@
    21. [FirewallD](./Content/17.%20FirewallD.md)
    22. [LVM](./Content/15.%20LVM.md)
    23. [Samba Server](./Content/18.%20Samba%20Server.md)
-
+   24. [Basic Bash Shell](./Content/19.%20Bash_Shell/19.1%20Basic_Bash_Shell.md)
+   25. [Lab Bash Shell](./Content/19.%20Bash_Shell/19.2%20Lab.md)
 
